@@ -2,8 +2,8 @@ Serve Content Via HTTPS
 =======================
 
 To make your installation available from the outside worls, you want to allow non-local traffic and want to secure
-connections from and to Opencast.  To archieve that, you can either use an HTTP(S) proxy like Apache httpd, Caddy or Nginx
-(recommended) or enable HTTPS directly in Opencast.
+connections from and to Opencast.  To archieve that, you can either use an HTTP(S) proxy like Apache httpd, Caddy or
+Nginx (recommended) or enable HTTPS directly in Opencast.
 
 - [Using Nginx to enable HTTPS](nginx.md) (recommended)
 - [Using Apache httpd to enable HTTPS](apache-httpd.md)
